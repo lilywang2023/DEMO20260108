@@ -1,0 +1,14 @@
+--2026-01-06 21:20:36--  https://github.com/voxelmorph/neurite/releases/download/v0.3/2D-OASIS-TUTORIAL.npz
+正在解析主机 github.com (github.com)... 20.205.243.166
+正在连接 github.com (github.com)|20.205.243.166|:443... 失败：连接超时。
+重试中。
+
+--2026-01-06 21:22:53--  (尝试次数： 2)  https://github.com/voxelmorph/neurite/releases/download/v0.3/2D-OASIS-TUTORIAL.npz
+正在连接 github.com (github.com)|20.205.243.166|:443... 失败：连接超时。
+重试中。
+
+--2026-01-06 21:46:40--  (尝试次数： 3)  https://github.com/voxelmorph/neurite/releases/download/v0.3/2D-OASIS-TUTORIAL.npz
+正在连接 github.com (github.com)|20.205.243.166|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 404 Not Found
+2026-01-06 21:47:18 错误 404：Not Found。
+
